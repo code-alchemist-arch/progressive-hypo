@@ -1,0 +1,5 @@
+export const MAX_DUE_DATE_MONTH_DIFF = 18;
+export const MAX_SELECTABLE_INTEREST_RATE_COUNT = 8;
+
+export const MORTGAGE_MODE_PAYING_OFF = 'PAYING_OFF';
+export const MORTGAGE_MODE_NEW = 'NEW';
